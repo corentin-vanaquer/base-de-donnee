@@ -1,4 +1,4 @@
-# CP5-créer-une-base-de-donnée
+# base-de-donnée
 
 - Réalisation d'un MCD (sous Mocodo), MLD ainsi qu'un dictionnaire de données,   
   afin de bien définir:  
